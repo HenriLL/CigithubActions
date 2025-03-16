@@ -1,0 +1,23 @@
+{
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriLL/CigithubActions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriLL/CigithubActions/issues"
+  },
+  "homepage": "https://github.com/HenriLL/CigithubActions#readme",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
